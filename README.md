@@ -1,0 +1,1 @@
+This is my first assignment for CS 338, an SQL and relational database course. Here I just worked on basic sql select statements.
